@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Wed Nov  7 14:33:07 2018
+# Process ID: 11652
+# Current directory: C:/Temp/JKeane/VGAProject/VGAProject.runs/impl_1
+# Command line: vivado.exe -log VGATop.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source VGATop.tcl -notrace
+# Log file: C:/Temp/JKeane/VGAProject/VGAProject.runs/impl_1/VGATop.vdi
+# Journal file: C:/Temp/JKeane/VGAProject/VGAProject.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source VGATop.tcl -notrace
